@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    margin-bottom: 50px;
+}
+.links{
+    display: flex;
+    gap: 20px;
+}
+.links a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+    background-color: #b7b7b273;
+    border-radius: 5px;
+}
+.user{
+    display: flex;
+    align-items: center;
+}
+.user img{
+    width: 30px;
+}

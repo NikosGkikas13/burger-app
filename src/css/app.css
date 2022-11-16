@@ -1,0 +1,21 @@
+/* .App {
+    background: url('../images/login-bg.jpg');
+} */
+*{
+    margin: 0;
+    padding: 0;
+}
+.App{
+    height: 100%;
+}
+.container{
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 50px;
+}
+.background{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
