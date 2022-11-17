@@ -79,3 +79,10 @@ form button:hover{
 .success{
     background-color: rgb(17, 222, 154);
 }
+
+@media only screen and (max-width: 600px) {
+    .login-container{
+        max-width: 320px;
+        padding: 0;
+    }
+}
